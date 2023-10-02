@@ -221,8 +221,8 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@jest/expect-utils@29.6.4:
-    resolution: {integrity: sha512-FEhkJhqtvBwgSpiTrocquJCdXPsyvNKcl/n7A3u7X4pVoF4bswm11c9d4AV+kfq2Gpv/mM8x7E7DsRvH+djkrg==}
+  /@jest/expect-utils@29.7.0:
+    resolution: {integrity: sha512-GlsNBWiFQFCVi9QVSx7f5AgMeLxe9YCCs5PuP2O2LdjDAA8Jh9eX7lA1Jq/xdXw3Wb3hyvlFNfZIfcRetSzYcA==}
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
     dependencies:
       jest-get-type: 29.6.3
@@ -2046,7 +2046,7 @@ packages:
     resolution: {integrity: sha512-F2W2UyQ8XYyftHT57dtfg8Ue3X5qLgm2sSug0ivvLRH/VKNRL/pDxg/TH7zVzbQB0tu80clNFy6LU7OS/VSEKA==}
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
     dependencies:
-      '@jest/expect-utils': 29.6.4
+      '@jest/expect-utils': 29.7.0
       jest-get-type: 29.6.3
       jest-matcher-utils: 29.6.4
       jest-message-util: 29.6.3
